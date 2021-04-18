@@ -1,0 +1,18 @@
+DHT to nodemcu
+(+) - 3v3
+(-) - gnd
+output - D5
+
+OLED to nodeMCU
+vcc_3v3
+gnd-gnd
+scl-D1
+sda-D2
+
+ESP8266 Board Manager Url : https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+https://github.com/HeWantedIndigo
+
+
+http://javl.github.io/image2cpp/
+

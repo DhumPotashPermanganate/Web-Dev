@@ -1,0 +1,44 @@
+
+body 
+{
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+}
+
+.container 
+{
+  padding-bottom: 5px;
+  color: black;
+  font-weight: bold;
+ 
+}
+.container h1 {
+  font-size: 5em;
+  letter-spacing: 0.05em;
+  min-width: 1000px;
+}
+.container h1 span 
+{
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 120px;
+	margin-right: 120px;
+	border: 10px solid black;
+	padding: 4px 14px;
+}
+
+.container h2 
+{
+	padding-bottom: 5px;
+	color: black;
+	font-weight: bold;
+}
+
+.container h2 span
+{
+	border: 1px solid black;
+}
